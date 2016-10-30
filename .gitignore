@@ -7,3 +7,4 @@ out/artifacts/servlets_war_exploded/META-INF/MANIFEST.MF
 target/servlets-1.0.jar
 target/failsafe-reports/BookServiceIT.txt
 web/index.jsp
+out/artifacts/servlets_war_exploded/index.jsp
