@@ -1,0 +1,9 @@
+*.xml
+*.iml
+target/servlets-1.0-SNAPSHOT.jar
+*.properties
+out/artifacts/servlets_war_exploded/META-INF/MANIFEST.MF
+*.class
+target/servlets-1.0.jar
+target/failsafe-reports/BookServiceIT.txt
+web/index.jsp
